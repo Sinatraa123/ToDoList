@@ -1,0 +1,109 @@
+    body{
+    background-image: linear-gradient(#f9ce34,#ee2a7b,#6228d7);
+}
+
+#gp{
+    height: 100vh;
+    /* border: 1px solid; */
+}
+
+#head{
+    font-size: xx-large;
+    margin-top: 30px;
+    margin-left: 50px;
+    font-family: "Tiny5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#text{
+    display: inline-block;
+    width: 600px;
+    font-size: x-large;
+    margin-top: 50px;
+    margin-left: 50px;
+    font-family: "Tiny5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    box-shadow: -3px 3px 3px #6228d7;
+}
+
+#add{
+    position: absolute;
+    padding: 10px;
+    /* margin-bottom: 10px; */
+    margin-top: 46px;
+    margin-left: 20px;
+    border-radius: 10px;
+    /* background-color: #f9ce34; */
+    font-family: "Tiny5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#add:hover{
+    background-color: #f9ce34;
+}
+
+.task{
+    /* position: relative; */
+    border: 1px solid;
+    height: 120px;
+    width: 600px;
+    margin-top: 60px;
+    margin-left: 50px;
+    font-family: "Tiny5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: xx-large;
+    /* padding-top: 30px; */
+    /* text-align: center  ; */
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px;
+}
+
+#task2,#task3{
+    margin-top: 20px;
+}
+
+.para{
+    margin-left: 30px;
+    position: absolute;
+    /* margin-bottom: 00xp; */
+    display: inline-block;
+    /* margin-top: 10px; */
+    font-family: "Tiny5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* .button1{
+    
+    margin-left: 350px;
+    margin-bottom: ;
+    padding: 10px 20px 10px 20px;
+    margin-top: 30px;
+    border-radius: 10px;
+    font-family: "Tiny5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+} */
+
+.button2{
+    position: absolute;
+    border-radius: 10px;
+    margin-left: 350px;
+    margin-top: 30px;
+    padding: 10px 20px 10px 20px;
+    font-family: "Tiny5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.button2:hover{
+    background-color: #f9ce34;
+}
+
+/* .button1:hover{
+    background-color: #f9ce34;
+} */
